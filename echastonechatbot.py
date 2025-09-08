@@ -1,3 +1,4 @@
+# made by Eli Taylor, in 2025.
 print("Welcome to my chatbot named, Echastone!")
 var = input("Hi how are you?")
 if var == "great":
