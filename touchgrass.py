@@ -1,0 +1,10 @@
+import time
+time.sleep(3)
+print("[VOICE] do it.... go outside")
+time.sleep(1)
+print("[YOU] nah id win")
+time.sleep(1)
+print("[VOICE] you ain't gojo lil bro.")
+time.sleep(1)
+print("who you calling lil bro?? youre literally a voice in my head ur the same age as me...")
+time.sleep(10)
